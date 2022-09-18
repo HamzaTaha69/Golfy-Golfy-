@@ -10,6 +10,10 @@ A fun 2d mini golf game using the pygame moudle in python visual studio code(VS 
  
 Tap the screen to the opposite side of where you want to shoot. The longer you hold, the further the ball shoots.
 
+## How to download the game
+
+Here is the URL:   https://github.com/HamzaTaha69/Golfy-Golfy-
+
 ## Bugs
 
 The sound effects might not work sometimes and it can be hard to shoot the ball.
