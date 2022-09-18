@@ -6,9 +6,9 @@ A fun 2d mini golf game using the pygame moudle in python visual studio code(VS 
 
  You control a ball and play mini golf.
  
- ## Game Controls
+## Game Controls
  
- Tap the screen to the opposite side of where you want to shoot. The longer you hold, the further the ball shoots.
+Tap the screen to the opposite side of where you want to shoot. The longer you hold, the further the ball shoots.
 
 ## Bugs
 
