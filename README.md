@@ -12,7 +12,7 @@ Tap the screen to the opposite side of where you want to shoot. The longer you h
 
 ## How to download the game
 
-Here is the URL to download everything:   https://github.com/HamzaTaha69/Golfy-Golfy-
+Here is the URL to download everything: https://github.com/HamzaTaha69/Golfy-Golfy-
 
 ## Bugs
 
